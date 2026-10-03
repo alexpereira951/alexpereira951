@@ -14,7 +14,7 @@ Tenho experiência em: **Python, HTML, SQL, Pré-Processamento de Dados, Anális
 
 ## PRINCIPAIS PROJETOS:
 
-| Repositório | Descrição | Competências Adquiridas |
+| Repositório | Descrição | Competências Utilizadas |
 | :--- | :--- | :--- |
 | [projeto_final_CallMeMaybe](https://github.com/alexpereira951/projeto_final_CallMeMaybe) | Projeto de análise de dados sobre eficiência de operadores, consultas SQL e teste A/B, com desenvolvimento de análises e dashboard. | **Python · Pandas · NumPy · SQL · SQLAlchemy · Estatística · Teste A/B · Análise exploratória · Visualização de dados · Matplotlib · Seaborn · Plotly · Tableau · Análise de métricas** |
 | [y.afisha_entretenimento](https://github.com/alexpereira951/y.afisha_entretenimento) | Análise de produto, vendas e marketing, investigando comportamento dos usuários e desempenho dos canais de aquisição. | **Python · Pandas · NumPy · Análise exploratória · Retenção · Recorrência · LTV · CAC · ROI · Análise de coortes · Visualização de dados · Matplotlib · Seaborn · Plotly** |
